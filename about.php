@@ -1,0 +1,1 @@
+<?php echo "Hi this is about us page"; ?>
